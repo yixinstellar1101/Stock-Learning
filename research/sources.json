@@ -1,0 +1,172 @@
+{
+  "verifiedAt": "2026-10-26T06:57:47.258Z",
+  "timezone": "Asia/Shanghai",
+  "method": "Direct official-page access. A successful status does not verify dynamic data or gated course contents.",
+  "sources": [
+    {
+      "id": 1,
+      "url": "https://www.optionseducation.org/optionsoverview/options-basics",
+      "finalUrl": "https://www.optionseducation.org/optionsoverview/options-basics",
+      "title": "Options Basics",
+      "pageTitle": "Options Basics",
+      "organization": "OIC · OCC",
+      "httpStatus": 200,
+      "access": "免费阅读",
+      "originalChineseAnnotation": "先读权利与义务、Call / Put、合约单位。配合第 1、2 课建立术语表。"
+    },
+    {
+      "id": 2,
+      "url": "https://www.optionseducation.org/optionsoverview/options-pricing",
+      "finalUrl": "https://www.optionseducation.org/optionsoverview/options-pricing",
+      "title": "Options Pricing",
+      "pageTitle": "Options Pricing",
+      "organization": "OIC · OCC",
+      "httpStatus": 200,
+      "access": "免费阅读",
+      "originalChineseAnnotation": "解释内在价值、时间价值，以及股价、时间、波动率、利率和股息对价格的影响。"
+    },
+    {
+      "id": 3,
+      "url": "https://www.optionseducation.org/advancedconcepts/understanding-options-greeks",
+      "finalUrl": "https://www.optionseducation.org/advancedconcepts/understanding-options-greeks",
+      "title": "Understanding Options Greeks",
+      "pageTitle": "Understanding Options Greeks",
+      "organization": "OIC · OCC",
+      "httpStatus": 200,
+      "access": "免费阅读",
+      "originalChineseAnnotation": "把 Greeks 理解为模型下的局部敏感度，避免误读成收益承诺或准确预测。"
+    },
+    {
+      "id": 4,
+      "url": "https://www.finra.org/investors/investing/investment-products/options",
+      "finalUrl": "https://www.finra.org/investors/investing/investment-products/options",
+      "title": "Options · 投资者指南",
+      "pageTitle": "Options | FINRA.org",
+      "organization": "FINRA",
+      "httpStatus": 200,
+      "access": "免费阅读",
+      "originalChineseAnnotation": "系统覆盖开平仓、合约类型、到期、指派、保证金和交易风险。适合全程查阅。"
+    },
+    {
+      "id": 5,
+      "url": "https://www.finra.org/investors/insights/trading-options-understanding-assignment",
+      "finalUrl": "https://www.finra.org/investors/insights/trading-options-understanding-assignment",
+      "title": "Trading Options: Understanding Assignment",
+      "pageTitle": "Trading Options: Understanding Assignment | FINRA.org",
+      "organization": "FINRA",
+      "httpStatus": 200,
+      "access": "免费阅读",
+      "originalChineseAnnotation": "解释卖方为何可能提前被指派，以及指派后需要交付什么。"
+    },
+    {
+      "id": 6,
+      "url": "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins-77",
+      "finalUrl": "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins-77",
+      "title": "Opening an Options Account",
+      "pageTitle": "",
+      "organization": "SEC · Investor.gov",
+      "httpStatus": 200,
+      "access": "免费阅读",
+      "originalChineseAnnotation": "了解券商审批考虑的经验、目标、财务状况。不同券商的权限层级名称不统一。"
+    },
+    {
+      "id": 7,
+      "url": "https://www.optionseducation.org/referencelibrary/odd-quick-guide",
+      "finalUrl": "https://www.optionseducation.org/referencelibrary/odd-quick-guide",
+      "title": "ODD Quick Guide",
+      "pageTitle": "ODD Quick Guide",
+      "organization": "OIC · OCC",
+      "httpStatus": 200,
+      "access": "免费阅读",
+      "originalChineseAnnotation": "标准化期权风险说明书的阅读导航。导读不能替代正式 ODD。"
+    },
+    {
+      "id": 8,
+      "url": "https://www.cboe.com/optionsinstitute/courses/options101",
+      "finalUrl": "https://www.cboe.com/optionsinstitute/courses/options101",
+      "title": "Options 101",
+      "pageTitle": "The Options Institute Options 101 | Cboe",
+      "organization": "Cboe · Options Institute",
+      "httpStatus": 200,
+      "access": "课程入口；部分学习路径需免费账号",
+      "originalChineseAnnotation": "交易所制作的系统入门课，适合作为第 1、2 课后的英文巩固材料。"
+    },
+    {
+      "id": 9,
+      "url": "https://www.cboe.com/optionsinstitute/courses/payout-diagrams/",
+      "finalUrl": "https://www.cboe.com/optionsinstitute/courses/payout-diagrams/",
+      "title": "Payout Diagrams",
+      "pageTitle": "The Options Institute Payout Diagrams | Cboe",
+      "organization": "Cboe · Options Institute",
+      "httpStatus": 200,
+      "access": "课程入口；配套工具可能需账号",
+      "originalChineseAnnotation": "先掌握四种基础头寸的到期盈亏，再组合策略。"
+    },
+    {
+      "id": 10,
+      "url": "https://www.cboe.com/optionsinstitute/courses/spread-strategies/",
+      "finalUrl": "https://www.cboe.com/optionsinstitute/courses/spread-strategies/",
+      "title": "Spread Strategies: Spread the Risk",
+      "pageTitle": "The Options Institute Spread Strategies | Cboe",
+      "organization": "Cboe · Options Institute",
+      "httpStatus": 200,
+      "access": "课程入口；部分内容可能需账号",
+      "originalChineseAnnotation": "理解价差如何改变成本与风险，多腿交易的执行和指派问题。"
+    },
+    {
+      "id": 11,
+      "url": "https://www.optionseducation.org/strategies/all-strategies-en",
+      "finalUrl": "https://www.optionseducation.org/strategies/all-strategies-en",
+      "title": "All Strategies · 策略索引",
+      "pageTitle": "All Strategies",
+      "organization": "OIC · OCC",
+      "httpStatus": 200,
+      "access": "免费索引",
+      "originalChineseAnnotation": "按观点和目的检索策略。具体盈亏需读对应条目并自行验算。"
+    },
+    {
+      "id": 12,
+      "url": "https://www.cboe.com/tradable-products/vix/",
+      "finalUrl": "https://www.cboe.com/tradable-products/vix/",
+      "title": "VIX · 波动率产品与方法入口",
+      "pageTitle": "VIX Volatility Products | Cboe",
+      "organization": "Cboe",
+      "httpStatus": 200,
+      "access": "免费入口",
+      "originalChineseAnnotation": "VIX 来自 SPX 期权定价，不是某只股票的 IV，也不是股市方向预测。"
+    },
+    {
+      "id": 13,
+      "url": "https://www.cboe.com/us/options/market_statistics/",
+      "finalUrl": "https://www.cboe.com/markets/us/options/market-statistics",
+      "title": "U.S. Options Market Statistics",
+      "pageTitle": "Cboe U.S. Options Market Statistics | Cboe",
+      "organization": "Cboe",
+      "httpStatus": 200,
+      "access": "免费入口；数据动态加载",
+      "originalChineseAnnotation": "观察期权市场成交量。比较数据前核对日期、全市场或单市场口径及单位。"
+    },
+    {
+      "id": 14,
+      "url": "https://www.sec.gov/search-filings",
+      "finalUrl": "https://www.sec.gov/search-filings",
+      "title": "上市公司财报检索",
+      "pageTitle": "SEC.gov | Request Rate Threshold Exceeded",
+      "organization": "SEC · EDGAR",
+      "httpStatus": 403,
+      "access": "官方入口；本次自动访问受限",
+      "originalChineseAnnotation": "查 10-K、10-Q 与 8-K。本课程未读取具体公司的最新财报或给出现时估值。"
+    },
+    {
+      "id": 15,
+      "url": "https://www.theocc.com/company-information/documents-and-archives/options-disclosure-document",
+      "finalUrl": "https://www.theocc.com/company-information/documents-and-archives/options-disclosure-document",
+      "title": "Characteristics and Risks of Standardized Options",
+      "pageTitle": "Just a moment...",
+      "organization": "OCC",
+      "httpStatus": 403,
+      "access": "官方文件入口；本次自动访问受限",
+      "originalChineseAnnotation": "正式 ODD 入口，也可向券商索取。本课具体知识核验使用已读取的 OIC、FINRA 等资料。"
+    }
+  ]
+}
